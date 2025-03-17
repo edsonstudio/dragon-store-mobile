@@ -1,2 +1,2 @@
-# dragon-store-mobile
+# Dragon-Store App Mobile
 Mobile with React Native
