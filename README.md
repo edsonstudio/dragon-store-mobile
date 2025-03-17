@@ -1,2 +1,2 @@
 # dragon-store-mobile
-Mobile wirh React Native
+Mobile with React Native
